@@ -1,0 +1,6 @@
+[submodule "third_party/Qwen3-ASR"]
+	path = third_party/Qwen3-ASR
+	url = https://github.com/QwenLM/Qwen3-ASR
+[submodule "third_party/MoulSot"]
+	path = third_party/MoulSot
+	url = https://github.com/atlasia-ma/MoulSot
